@@ -1,2 +1,3 @@
-# aventura-espacial
-Um Exercício de classes onde crio personagens e métodos.
+# Aventura Espacial 🚀
+
+Este é um projeto de treino com classes em JavaScript para um jogo espacial.
